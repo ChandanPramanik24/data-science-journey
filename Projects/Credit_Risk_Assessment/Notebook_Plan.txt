@@ -1,0 +1,5 @@
+1. Import data
+2. EDA
+3. Model training
+4. Evaluation
+5. Summary
